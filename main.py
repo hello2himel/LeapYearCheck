@@ -1,3 +1,5 @@
+print('Welcome! You can check if a year is a leap year using this program.')
+
 year = int(input('Please type the year: '))
 
 if year % 100 == 0:
